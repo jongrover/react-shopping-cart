@@ -1,0 +1,15 @@
+.CartItem {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #efefef;
+  padding: 20px;
+}
+
+.CartItem span {
+  width: 25%;
+  padding: 10px;
+}
+
+.CartItem button {
+  margin: 0 3px;
+}

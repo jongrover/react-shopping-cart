@@ -1,0 +1,16 @@
+.Cart {
+  margin-top: 2%;
+  border: 1px solid #ccc;
+}
+
+.Cart ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.Cart h3 {
+  text-align: center;
+  width: 25%;
+  margin: 0 0 15px auto;
+  padding: 10px;
+}
